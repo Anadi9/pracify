@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed551a8fd081f882006081f5750e204c",
+    "revision": "5e453ff65b9ff1ff4b2ebc2ec458d238",
     "url": "/pracify/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pracify/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "585498171ee8178e7868",
-    "url": "/pracify/static/css/main.37f76905.chunk.css"
+    "revision": "3c6220090c505a827fae",
+    "url": "/pracify/static/css/main.de330d2f.chunk.css"
   },
   {
     "revision": "b827f2bbab0cf27d9181",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pracify/static/js/2.d7341080.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "585498171ee8178e7868",
-    "url": "/pracify/static/js/main.055d32d6.chunk.js"
+    "revision": "3c6220090c505a827fae",
+    "url": "/pracify/static/js/main.50903137.chunk.js"
   },
   {
     "revision": "f940a572f1415a08d3bb",
