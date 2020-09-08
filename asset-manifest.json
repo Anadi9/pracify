@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/pracify/static/css/main.37f76905.chunk.css",
+    "main.js": "/pracify/static/js/main.055d32d6.chunk.js",
+    "main.js.map": "/pracify/static/js/main.055d32d6.chunk.js.map",
+    "runtime-main.js": "/pracify/static/js/runtime-main.05aed5ce.js",
+    "runtime-main.js.map": "/pracify/static/js/runtime-main.05aed5ce.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/pracify/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.d7341080.chunk.js": "/pracify/static/js/2.d7341080.chunk.js",
+    "static/js/2.d7341080.chunk.js.map": "/pracify/static/js/2.d7341080.chunk.js.map",
+    "index.html": "/pracify/index.html",
+    "precache-manifest.892f755ac7c12c11cf74cb9295a709d3.js": "/pracify/precache-manifest.892f755ac7c12c11cf74cb9295a709d3.js",
+    "service-worker.js": "/pracify/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/pracify/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.37f76905.chunk.css.map": "/pracify/static/css/main.37f76905.chunk.css.map",
+    "static/js/2.d7341080.chunk.js.LICENSE.txt": "/pracify/static/js/2.d7341080.chunk.js.LICENSE.txt",
+    "static/media/Group 800.svg": "/pracify/static/media/Group 800.8ce59080.svg",
+    "static/media/Group 801.svg": "/pracify/static/media/Group 801.25e58dee.svg",
+    "static/media/Icon awesome-heart.svg": "/pracify/static/media/Icon awesome-heart.93641ad4.svg",
+    "static/media/google-play-badge@3x.png": "/pracify/static/media/google-play-badge@3x.f514385f.png",
+    "static/media/handshake.svg": "/pracify/static/media/handshake.cd2181b2.svg",
+    "static/media/rupee.svg": "/pracify/static/media/rupee.d87b1275.svg",
+    "static/media/surface1.svg": "/pracify/static/media/surface1.45a9831d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05aed5ce.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.d7341080.chunk.js",
+    "static/css/main.37f76905.chunk.css",
+    "static/js/main.055d32d6.chunk.js"
+  ]
+}
