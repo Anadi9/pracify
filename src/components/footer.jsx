@@ -8,9 +8,9 @@ function Footer(props) {
     return (
         <Container fluid className="footer">
 
-        <hr className="mx-auto hr"/>
+        <hr className="hr"/>
 
-        <Row className="mx-5 my-4">
+        <Row className=" my-4">
             
             <Col sm>
               <h4>pracify</h4>
@@ -44,7 +44,7 @@ function Footer(props) {
             
             </Row>
 
-            <hr className="mx-auto hr"/>
+            <hr className="hr"/>
 
             <div className="container">
             

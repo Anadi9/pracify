@@ -81,7 +81,7 @@
 }
 
 .contact_us {
-  width: 1000px;
+  width: 95%;
   height: 100px;
   color: #fff;
   border-radius: 11px;
@@ -145,20 +145,9 @@
 
 
 .hr {
-  width: 1000px;
+  width: 95%;
   height: 1px;
   background: grey;
-}
-
-.footer p {
-  font-size: 18px;
-  font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.78;
-  letter-spacing: normal;
-  text-align: left;
-  color: #333e49;
 }
 
 .footer h4 {

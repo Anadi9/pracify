@@ -3,6 +3,8 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Surface1 from '../images/surface1.svg';
 import Handshake from '../images/handshake.svg';
 import Rupee from '../images/rupee.svg';
+import Footer from './footer';
+
 
 function Partner(props) {
     return (
@@ -34,6 +36,8 @@ function Partner(props) {
              </Col>
 
             </Row>
+
+            <Footer/>
         </Container>
     );
 }

@@ -3,6 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Firstimg from '../images/Group 800.svg';
 import Secondimg from '../images/Group 801.svg';
 import Thirdimg from '../images/Group 801.svg';
+import Footer from './footer';
 
 
 function Home(props) {
@@ -74,6 +75,8 @@ function Home(props) {
                <h4 className="my-auto">Got something? Feel free to get in touch with us!</h4>
                <button className="mx-auto my-auto contact_button">Contact Us</button>
             </div>
+
+            <Footer/>
 
         </Container>
     );
